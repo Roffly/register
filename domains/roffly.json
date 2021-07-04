@@ -1,0 +1,12 @@
+{
+  "description": "A personal portfolio site for all my projects and commissions.",
+  "repo": "https://github.com/roffly/roffly.github.io",
+  "owner": {
+    "username": "roffly",
+    "email": "roffly00@gmail.com",
+    "twitter": "roffly2"
+  },
+  "record": {
+    "CNAME": "roffly.github.io"
+  }
+}
